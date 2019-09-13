@@ -1,0 +1,20 @@
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\bin\Debug\OLİMPUS PİNG.exe.config
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\bin\Debug\OLİMPUS PİNG.exe
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\bin\Debug\OLİMPUS PİNG.pdb
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.csprojAssemblyReference.cache
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS_PİNG.Form1.resources
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS_PİNG.Properties.Resources.resources
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.csproj.GenerateResource.cache
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.csproj.CoreCompileInputs.cache
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.exe
+C:\Users\felixCulpa\Documents\Visual Studio 2013\Projects\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.pdb
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\bin\Debug\OLİMPUS PİNG.exe.config
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\bin\Debug\OLİMPUS PİNG.exe
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\bin\Debug\OLİMPUS PİNG.pdb
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.csprojAssemblyReference.cache
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS_PİNG.Form1.resources
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS_PİNG.Properties.Resources.resources
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.csproj.GenerateResource.cache
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.csproj.CoreCompileInputs.cache
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.exe
+C:\Users\mirkan\Desktop\Projeler\OLİMPUS PİNG\OLİMPUS PİNG\OLİMPUS PİNG\obj\Debug\OLİMPUS PİNG.pdb
